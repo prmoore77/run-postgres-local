@@ -1,5 +1,6 @@
 import random
 
+
 def main():
     bitmap_str: str = ""
     for i in range(1, 32767):
